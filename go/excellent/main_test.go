@@ -9,4 +9,4 @@ func TestEvenOrOdd(t *testing.T) {
   }
 }
 
-// password:hogehoge
+// password!
