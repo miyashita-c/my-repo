@@ -17,4 +17,3 @@ jobs:
         run: |
           gh pr review "${GITHUB_HEAD_REF}" --approve
           gh pr merge "${GITHUB_HEAD_REF}" --merge --auto
-
